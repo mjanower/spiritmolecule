@@ -262,12 +262,14 @@ margin-right:3px;
 /*-------------------media queries----------------*/
 @media (max-width: 500px) { 
 h1{
-  font-size: 20px;
+  font-size: 4em;
   width: 85vw;
+  margin-left:6px;
 }
 h2{
+  margin-left: 10px;
   font-size: 16px;
-  line-height:1;
+  line-height:1.2;
   width:85vw;
 }
 h3{
@@ -276,8 +278,8 @@ h3{
   width:85vw;
 }
 .essay p{
-  font-size:14px;
-  line-height:1.4;
+  font-size:16px;
+  line-height:1.2;
   width: 85vw;
   padding-right:10px;
   left:0;
