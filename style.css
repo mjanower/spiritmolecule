@@ -262,6 +262,7 @@ margin-right:3px;
 /*-------------------media queries----------------*/
 @media (max-width: 500px) { 
 h1{
+  margin-top: 80px;
   font-size: 2em;
   width: 85vw;
   margin-left:6px;
