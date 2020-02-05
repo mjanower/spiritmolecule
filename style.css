@@ -263,15 +263,23 @@ margin-right:3px;
 @media (max-width: 500px) { 
 h1{
   font-size: 20px;
+  width: 85vw;
+}
+h2{
+  font-size: 16px;
+  line-height:1;
+  width:85vw;
 }
 h3{
   font-size: 16px;
+  line-height:1.1;
+  width:85vw;
 }
 .essay p{
-  font-size:12px;
+  font-size:14px;
   line-height:1.4;
   width: 85vw;
-  padding-right:8px;
+  padding-right:10px;
   left:0;
 }
 img{
@@ -281,5 +289,8 @@ img{
 .marquee-container {
   width: 104vw;
   margin-left:-2vw;
+}
+.essay{
+  margin: 10px;
 }
 }
