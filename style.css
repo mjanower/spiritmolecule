@@ -277,4 +277,9 @@ h3{
 img{
   width:50px;
 }
+
+.marquee-container {
+  width: 104vw;
+  margin-left:-2vw;
+}
 }
