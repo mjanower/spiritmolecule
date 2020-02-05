@@ -262,7 +262,7 @@ margin-right:3px;
 /*-------------------media queries----------------*/
 @media (max-width: 500px) { 
 h1{
-  font-size: 1.5em;
+  font-size: 2em;
   width: 85vw;
   margin-left:6px;
 }
@@ -285,7 +285,7 @@ h3{
   left:0;
 }
 img{
-  width:150px;
+  width:115px;
 }
 
 .marquee-container {
