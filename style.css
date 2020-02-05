@@ -296,4 +296,7 @@ img{
 .essay{
   margin: 10px;
 }
+#starshine, .shine{
+   z-index:-1; 
+}
 }
